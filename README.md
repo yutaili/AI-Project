@@ -8,6 +8,9 @@ In this project, we aim to build machine learning models to classify facial imag
 Facial Expression Recognition Challenge Dataset: https://www.kaggle.com/datasets/debanga/facial-expression-recognition-challenge \
 MMA Facial Expression Dataset: https://www.kaggle.com/datasets/mahmoudima/mma-facial-expression
 
+## Environment
+All files were run on Google Colab with a GPU instance.
+
 ## File Descriptions: 
 <a href="https://github.com/yutaili/AI-Project/blob/main/Color%20Image%20Processing.ipynb">`Color image Processing.ipynb`</a>: transfer the color image dataset into image array and store in .json or .csv file. <br>
 <a href="https://github.com/yutaili/AI-Project/blob/main/FER%20Project.ipynb">`FER Project.ipynb`</a>: Data processing and initial model run file. Code has been included in other files as well. Please feel free to skip.<br>
