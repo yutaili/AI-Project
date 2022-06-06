@@ -11,7 +11,7 @@ MMA Facial Expression Dataset: https://www.kaggle.com/datasets/mahmoudima/mma-fa
 ## File Descriptions: 
 <a href="https://github.com/yutaili/AI-Project/blob/main/Color%20Image%20Processing.ipynb">`Color image Processing.ipynb`</a>: transfer the color image dataset into image array and store in .json or .csv file. <br>
 <a href="https://github.com/yutaili/AI-Project/blob/main/FER%20Project.ipynb">`FER Project.ipynb`</a>: Data processing and initial model run file. Code has been included in other files as well. Please feel free to skip.<br>
-<a style="href="https://github.com/yutaili/AI-Project/blob/main/FER_Project%20(1).ipynb">`FER_Project(1).ipynb`</a>: Model training and model evluation file. Confusion Matrices and data visualizations are included in this file.<br>
+<a href="https://github.com/yutaili/AI-Project/blob/main/FER_Project%20(1).ipynb">`FER_Project(1).ipynb`</a>: Model training and model evluation file. Confusion Matrices and data visualizations are included in this file. <br>
 <a href="https://github.com/yutaili/AI-Project/blob/main/FER_Project.ipynb">`FER_Project.ipynb`</a>: A copy of FER_Project(1).ipynb, please feel free to ignore. <br>
 <a href="https://github.com/yutaili/AI-Project/blob/main/color.csv">`color.csv`</a>: color images that has been stored as (48, 48, 3) image arries in csv. <br>
 <a href="https://github.com/yutaili/AI-Project/blob/main/test.csv">`test.csv`</a>: gray-scale test image array without truth labels.<br>
